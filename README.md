@@ -5,7 +5,7 @@ note: this example is connecting a private url (variable url_orionhistory) which
 Change for your own url or use localhost
 
 usage:
-------
+-------
 to install all node_modules type
 > npm install 
 
