@@ -8,5 +8,6 @@ usage:
 ------
 to install all node_modules type
 > npm install 
+
 to run:
 > node index.js
